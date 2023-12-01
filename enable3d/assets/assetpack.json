@@ -1,0 +1,16 @@
+{
+  "boot": {
+    "path": "assets/",
+    "files": [
+      {
+        "type": "xml",
+        "key": "copy_xml",
+        "url": "locale/copy.xml"
+      }
+    ]
+  },
+  "preload": {
+    "path": "assets/",
+    "files": []
+  }
+}
