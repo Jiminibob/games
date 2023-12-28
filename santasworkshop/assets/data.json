@@ -1,0 +1,6 @@
+{
+  "furniture": {
+    "storage": { "color": "0x00ffff" },
+    "wood_maker": { "color": "0xff00ff" }
+  }
+}

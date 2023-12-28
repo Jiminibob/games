@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "howtoplay-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 755,
+				"h": 506
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "howtoplay_panel_01",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 722,
+						"h": 504
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 722,
+						"h": 504
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 722,
+						"h": 504
+					}
+				},
+				{
+					"filename": "howtoplay_panel_02",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 722,
+						"h": 504
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 722,
+						"h": 504
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 722,
+						"h": 504
+					}
+				},
+				{
+					"filename": "howtoplay_panel_03",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 722,
+						"h": 504
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 722,
+						"h": 504
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 722,
+						"h": 504
+					}
+				},
+				{
+					"filename": "howtoplay_panel_04",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 722,
+						"h": 504
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 722,
+						"h": 504
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 722,
+						"h": 504
+					}
+				},
+				{
+					"filename": "howtoplay_panel_05",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 722,
+						"h": 504
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 722,
+						"h": 504
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 722,
+						"h": 504
+					}
+				},
+				{
+					"filename": "pagenation_select",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 28,
+						"h": 34
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 28,
+						"h": 34
+					},
+					"frame": {
+						"x": 725,
+						"y": 1,
+						"w": 28,
+						"h": 34
+					}
+				},
+				{
+					"filename": "pagenation_blank",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 29,
+						"h": 28
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 29,
+						"h": 28
+					},
+					"frame": {
+						"x": 725,
+						"y": 37,
+						"w": 29,
+						"h": 28
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5d64deebd4894675f6b99122c12dace3:ed3f73d02f88e19f9b8f2323e17a76a2:d553162afd5de3f9d4610b97d922794d$"
+	}
+}

@@ -1,0 +1,134 @@
+{
+  "boot": {
+    "path": "assets/",
+    "files": [
+      {
+        "type": "xml",
+        "key": "copy_xml",
+        "url": "locale/copy.xml"
+      },
+      {
+        "type": "json",
+        "key": "test_save",
+        "url": "test.json"
+      }
+    ]
+  },
+  "music": {
+    "path": "assets/music/",
+    "files": [
+      {
+        "type": "audio",
+        "key": "background_music",
+        "url": ["background_music.m4a"]
+      }
+    ]
+  },
+  "audiosprites": {
+    "path": "assets/audiosprites/64",
+    "files": [
+      {
+        "type": "audioSprite",
+        "key": "ui_sfx",
+        "jsonURL": "ui.json",
+        "audioURL": ["ui.m4a"],
+        "audioConfig": { "instances": 1 }
+      }
+    ]
+  },
+  "images": {
+    "path": "assets/images/",
+    "files": [
+      {
+        "type": "image",
+        "key": "roof",
+        "url": "roof.png"
+      },
+      {
+        "type": "image",
+        "key": "roof_side",
+        "url": "roof_side.png"
+      },
+      {
+        "type": "image",
+        "key": "tree",
+        "url": "tree.png"
+      },
+      {
+        "type": "image",
+        "key": "floor",
+        "url": "floor.png"
+      },
+      {
+        "type": "image",
+        "key": "background_sky",
+        "url": "background_sky.png"
+      },
+      {
+        "type": "image",
+        "key": "mountain",
+        "url": "mountain.png"
+      },
+      {
+        "type": "image",
+        "key": "welcome",
+        "url": "welcome.png"
+      }
+    ]
+  },
+  "spritesheets": {
+    "path": "assets/spritesheets/",
+    "files": [
+      {
+        "type": "multiatlas",
+        "key": "buttons",
+        "atlasURL": "buttons.json"
+      },
+      {
+        "type": "multiatlas",
+        "key": "furniture",
+        "atlasURL": "furniture.json"
+      },
+      {
+        "type": "multiatlas",
+        "key": "elves",
+        "atlasURL": "elves.json"
+      },
+      {
+        "type": "multiatlas",
+        "key": "elves_02",
+        "atlasURL": "elves_02.json"
+      },
+      {
+        "type": "multiatlas",
+        "key": "elves_03",
+        "atlasURL": "elves_03.json"
+      },
+      {
+        "type": "multiatlas",
+        "key": "elves_04",
+        "atlasURL": "elves_04.json"
+      },
+      {
+        "type": "multiatlas",
+        "key": "elves_05",
+        "atlasURL": "elves_05.json"
+      },
+      {
+        "type": "multiatlas",
+        "key": "ui",
+        "atlasURL": "ui.json"
+      },
+      {
+        "type": "multiatlas",
+        "key": "snowflakes",
+        "atlasURL": "snowflakes.json"
+      },
+      {
+        "type": "multiatlas",
+        "key": "particles",
+        "atlasURL": "particles.json"
+      }
+    ]
+  }
+}

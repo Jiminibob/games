@@ -1,0 +1,45 @@
+{
+  "resources": [
+    "ui.ogg",
+    "ui.m4a",
+    "ui.mp3"
+  ],
+  "spritemap": {
+    "silence": {
+      "start": 0,
+      "end": 1,
+      "loop": true
+    },
+    "btn_click": {
+      "start": 1.5,
+      "end": 2.1053968253968254,
+      "loop": false
+    },
+    "gameend_best": {
+      "start": 3,
+      "end": 4.799727891156462,
+      "loop": false
+    },
+    "gameend_count": {
+      "start": 5.5,
+      "end": 6.063854875283447,
+      "loop": false
+    },
+    "gameend_day": {
+      "start": 7,
+      "end": 11,
+      "loop": false
+    },
+    "gameend_percent": {
+      "start": 11.5,
+      "end": 13.206666666666667,
+      "loop": false
+    },
+    "item_place": {
+      "start": 14,
+      "end": 14.802086167800454,
+      "loop": false
+    }
+  },
+  "autoplay": "silence"
+}

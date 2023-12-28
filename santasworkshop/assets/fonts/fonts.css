@@ -1,0 +1,65 @@
+@font-face {
+      font-family: 'lilitaone-regular';
+      src: url('lilitaone-regular/lilitaone-regular.woff2') format('woff2'),
+            url('lilitaone-regular/lilitaone-regular.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+  }
+ 
+  @font-face {
+      font-family: 'roboto-black';
+      src: url('roboto-black/roboto-black.woff2') format('woff2'),
+            url('roboto-black/roboto-black.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+  }
+ 
+  @font-face {
+      font-family: 'roboto-bold';
+      src: url('roboto-bold/roboto-bold.woff2') format('woff2'),
+            url('roboto-bold/roboto-bold.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+  }
+ 
+  @font-face {
+      font-family: 'roboto-medium';
+      src: url('roboto-medium/roboto-medium.woff2') format('woff2'),
+            url('roboto-medium/roboto-medium.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+  }
+ 
+  @font-face {
+      font-family: 'roboto-regular';
+      src: url('roboto-regular/roboto-regular.woff2') format('woff2'),
+            url('roboto-regular/roboto-regular.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+  }
+ 
+  @font-face {
+      font-family: 'spacegrotesk-bold';
+      src: url('spacegrotesk-bold/spacegrotesk-bold.woff2') format('woff2'),
+            url('spacegrotesk-bold/spacegrotesk-bold.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+  }
+ 
+  @font-face {
+      font-family: 'spacegrotesk-medium';
+      src: url('spacegrotesk-medium/spacegrotesk-medium.woff2') format('woff2'),
+            url('spacegrotesk-medium/spacegrotesk-medium.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+  }
+ 
+  @font-face {
+      font-family: 'spacegrotesk-regular';
+      src: url('spacegrotesk-regular/spacegrotesk-regular.woff2') format('woff2'),
+            url('spacegrotesk-regular/spacegrotesk-regular.woff') format('woff');
+      font-weight: normal;
+      font-style: normal;
+  }
+ 
+  
