@@ -21,6 +21,11 @@
         "type": "audio",
         "key": "background_music",
         "url": ["background_music.m4a"]
+      },
+      {
+        "type": "audio",
+        "key": "background_music_2",
+        "url": ["background_music_2.m4a"]
       }
     ]
   },
