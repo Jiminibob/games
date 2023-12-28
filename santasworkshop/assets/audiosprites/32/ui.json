@@ -12,32 +12,32 @@
     },
     "btn_click": {
       "start": 1.5,
-      "end": 2.1053968253968254,
+      "end": 2.7857142857142856,
       "loop": false
     },
     "gameend_best": {
-      "start": 3,
-      "end": 4.799727891156462,
+      "start": 4,
+      "end": 5.799727891156462,
       "loop": false
     },
     "gameend_count": {
-      "start": 5.5,
-      "end": 6.063854875283447,
+      "start": 6.5,
+      "end": 7.063854875283447,
       "loop": false
     },
     "gameend_day": {
-      "start": 7,
-      "end": 11,
+      "start": 8,
+      "end": 12,
       "loop": false
     },
     "gameend_percent": {
-      "start": 11.5,
-      "end": 13.206666666666667,
+      "start": 12.5,
+      "end": 14.206666666666667,
       "loop": false
     },
     "item_place": {
-      "start": 14,
-      "end": 14.802086167800454,
+      "start": 15,
+      "end": 16.285714285714285,
       "loop": false
     }
   },
