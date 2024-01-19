@@ -1,0 +1,62 @@
+{
+  "boot": {
+    "path": "./assets/",
+    "files": [
+      {
+        "type": "xml",
+        "key": "copy_xml",
+        "url": "locale/copy.xml"
+      }
+    ]
+  },
+  "preload": {
+    "path": "./assets/",
+    "files": [
+      {
+        "type": "image",
+        "key": "colour_picker",
+        "url": "colour_picker.png"
+      },
+      {
+        "type": "image",
+        "key": "light",
+        "url": "light.png"
+      }
+    ]
+  },
+  "music": {
+    "path": "./assets/music/",
+    "files": [
+      {
+        "type": "audio",
+        "key": "adams_jam24",
+        "url": ["adams_jam24.m4a"]
+      },
+      {
+        "type": "audio",
+        "key": "durge",
+        "url": ["durge.m4a"]
+      },
+      {
+        "type": "audio",
+        "key": "daz_lefromagenumérique",
+        "url": ["daz_lefromagenumérique.m4a"]
+      },
+      {
+        "type": "audio",
+        "key": "grindle_axelf",
+        "url": ["grindle_axelf.m4a"]
+      },
+      {
+        "type": "audio",
+        "key": "pete_sideglance2",
+        "url": ["pete_sideglance2.m4a"]
+      },
+      {
+        "type": "audio",
+        "key": "val_wildernesswaltz",
+        "url": ["val_wildernesswaltz.m4a"]
+      }
+    ]
+  }
+}
