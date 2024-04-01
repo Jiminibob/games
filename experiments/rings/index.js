@@ -15,7 +15,7 @@ const config = {
   // how often to spawn a new ring
   ringInterval: 0.25,
   // how fast should rings grow
-  ringGrowthSpeed: 500,
+  ringGrowthSpeed: 75,
   // how many circles in each ring
   ringCircleCount: 20,
   // size of the circles in the ring
