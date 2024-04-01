@@ -13,7 +13,7 @@ ctx.fillRect(0, 0, canvas.width, canvas.height);
 
 const config = {
   // how often to spawn a new ring
-  ringInterval: 0.25,
+  ringInterval: 1,
   // how fast should rings grow
   ringGrowthSpeed: 75,
   // how many circles in each ring
@@ -22,7 +22,7 @@ const config = {
   ringCircleSize: 10,
   ringCircleGrowthSpeed: 2,
   // ring trail duration
-  ringTrailDuration: 1,
+  ringTrailDuration: 2,
   // choose colours at random or in sequence
   randomColours: false,
   // allow rings to rotate
