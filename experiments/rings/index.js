@@ -234,7 +234,7 @@ ringFolder.add(config, "ringCircleCount").name("Circle Count");
 ringFolder.add(config, "ringCircleSize").name("Circle Size");
 ringFolder.add(config, "ringCircleGrowthSpeed").name("Circle Growth Speed");
 ringFolder.add(config, "ringTrailDuration").name("Trail Duration");
-ringFolder.add(config, "randomColours").name("Colours");
+ringFolder.add(config, "randomColours").name("Random Colours");
 ringFolder.add(config, "ringRotate").name("Rotate");
 ringFolder.add(config, "ringRotateAlternate").name("Rotate Alternate");
 ringFolder.add(config, "ringRotateSpeed").name("Rotate Speed");
